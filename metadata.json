@@ -1,0 +1,5 @@
+{
+  "name": "FITNESS CRAZE",
+  "description": "A mobile-first web application for gym members and admins to track fitness progress. Admins can manage users and their fitness data, while users can view their own progress through a detailed monthly form.",
+  "requestFramePermissions": []
+}
